@@ -1,0 +1,4 @@
+name = "my-discord-worker"
+main = "worker.js"
+compatibility_date = "2024-07-22"
+workers_dev = true
