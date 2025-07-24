@@ -1,4 +1,4 @@
-name = "my-discord-worker"
+name = "webhook"
 main = "worker.js"
 compatibility_date = "2024-07-22"
 workers_dev = true
